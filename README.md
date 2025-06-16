@@ -10,15 +10,7 @@ To build an LSTM-based deep learning model to accurately forecast Kenya’s GDP 
 
 ---
 
-## 📁 Dataset
 
-- **Source:** World Bank / Kaggle / Government of Kenya Statistics
-- **File:** `kenya_gdp.csv`
-- **Features:**
-  - Year (from 1960 to latest available)
-  - GDP (in current US$)
-
----
 
 ## 🧰 Tools & Technologies
 
@@ -72,12 +64,3 @@ LSTM networks are used because:
 - **Model Performance:** Captured GDP trend effectively.
 
 ---
-
-## 📈 Sample Plot
-
-![GDP Forecast](plots/gdp_lstm_prediction.png)
-
----
-
-## 🗃️ Project Structure
-
